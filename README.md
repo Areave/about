@@ -11,23 +11,7 @@
 - работа с репозиторием по git-flow<br>
 
 
-## 1. Основные пет-проекты (в хронологическом порядке):
-
-*(все ссылки ведут на репозитории, много есть readme.md с пояснениями)* <br>
-
-1. Верстка (`Figma`, `Photoshop`, адаптив, медиазапросы, flex, grid)
-
-[Задание с реальной работы](https://github.com/Areave/gorgullia-page#readme)
-
-[Сложный учебный лендинг](https://github.com/Areave/mogo#readme)<br>
- <br>
-
-2. `JavaScript` (обработка асинхронных запросов, отрисовка эелементов DOM-дерева, активность на странице и т.д.)
-
-[Демонстрационный проект (в работе)](https://github.com/Areave/myDemonstratePage#readme) <br>
- <br>
-
-3. `React`
+## Пет-проекты:
 
 [To-Do-List](https://github.com/Areave/reactStudyToDoApp#readme)
 
@@ -84,6 +68,7 @@ React, Redux, Express, MongoDB
 - Git, GitLab
 - SASS, LESS
 - Reactstrap, Styled Components, Materialize
+- Node.js (Express)
 - MongoDb
 - 
  <br>
@@ -95,14 +80,3 @@ React, Redux, Express, MongoDB
 
 <br>
 
-## 3. Планы на развитие:
-- `Jest`
-- `Node.js`
-- `Material UI`
-- `JSDoc`
-- `GraphQL`- 
-- `Docker`
-- Теория (алгоритмы и структуры данных, computer science)
-- Математика
-
-<br>
