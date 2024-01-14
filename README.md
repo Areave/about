@@ -27,10 +27,6 @@
 
 [Простой чат на Firebase (React, Firebase, Less)](https://github.com/Areave/fireChat#readme)
 
-[Фриланс-проект - интерфейс портала предприятия (React, Redux, SCSS)](https://github.com/Areave/zaslon#readme)
-
-[Фриланс-проект - веб-интерфейс платежного терминала (React, Hooks)](https://github.com/Areave/terminal-react#readme)
-
 [Пет-проект на стеке MERN (MongoDB, Express, React, NodeJs)](https://github.com/Areave/mern3)
 
 [Тестовое задание для компании AmmaKids (React-Redux)](https://github.com/Areave/amakids-test)
@@ -38,6 +34,12 @@
 
 [Свой шаблон для создания React-приложений (React, Redux, webpack, SCSS, typescript, React-hooks, axios)](https://react-webpack-template-orpin.vercel.app)
 [ссылка на деплой-версию](https://react-webpack-template2.vercel.app)
+
+[Фриланс-проект - интерфейс портала предприятия (React, Redux, SCSS)](https://github.com/Areave/zaslon#readme)
+
+[Фриланс-проект - веб-интерфейс платежного терминала (React, Hooks)](https://github.com/Areave/terminal-react#readme)
+
+[Фриланс-проект - веб-интерфейс проекта для создания схемы базы данных (React, JointJs) в работе](https://no-code-app-rho.vercel.app))
 
 4. `Другое`
 
